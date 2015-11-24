@@ -1,4 +1,4 @@
-# Useful Raspberry packages for linux 
+# Useful Linux  packages for Raspberry Pi 
 Repository contains useful scripts for intsalling/downloading packages for web developers.
 
 # It contains:
