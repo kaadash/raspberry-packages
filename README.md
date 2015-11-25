@@ -1,5 +1,10 @@
+# Small script for executing different commands in different terminal tabs
+As arguments pass all commands as you want and hit enter for example:
+
+bash diffTabCmd.sh ls ps
+
 # Useful Linux  packages for Raspberry Pi 
-Repository contains useful scripts for intsalling/downloading packages for web developers.
+Script contains useful scripts for Raspberry as dev server.
 
 # It contains:
 * Apache2 server
